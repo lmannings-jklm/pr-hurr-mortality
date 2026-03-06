@@ -33,6 +33,21 @@ Data
 ====
 Source Data
 -----------
-The source data for this project can be found in the `extdata` directory of the dslabs package, which contains the daily mortality data for Puerto Rico from Jan 1, 2015 to May 31, 2018. You can find and asthe file like this:
+The source data for this project can be found in the `extdata` directory of the **dslabs** package, which contains the daily mortality data for Puerto Rico from Jan 1, 2015 to May 31, 2018.
+
+Data Acquisition
+----------------
+Once the dslabs package is installed, the file is located in the package's external data directory, accessed in R using a command like this:
 
 >`fn <- system.file("extdata", "RD-Mortality-Report_2015-18-180531.pdf", package="dslabs")`
+
+Data Preprocessing
+------------------
+The source data is not presumed to meet [**tidy data** standards](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html). Additional data wrangling will likely be required.
+
+
+
+
+
+
+
