@@ -58,10 +58,22 @@ Project Repository structure is outlined below.
 
 ``` text
 pr-hurr-mortality
-    ├───data
-    ├───docs
-    ├───notebooks
-    └───src
+│   header-photo.png
+│   README.md
+│
+├───data
+│
+├───docs
+│
+├───notebooks
+│       RD-Mortality-Report_2015-18-180531.pdf
+│
+├───scripts
+│       pr_hurr_scrubber.html
+│       pr_hurr_scrubber.R
+│       pr_hurr_scrubber.Rmd
+│
+└───src
 ```
 
 # Results and Evaluation
