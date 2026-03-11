@@ -78,7 +78,7 @@ pr-hurr-mortality
 
 # Results and Evaluation
 
-The project results are captured in the R markdown file `pr_hurr_scrubber.Rmd`, which is included in this repository.
+The project results are captured in the R markdown file [**pr_hurr_scrubber.Rmd**](https://github.com/lmannings-jklm/pr-hurr-mortality/blob/main/scripts/pr_hurr_scrubber.Rmd), which is included in this repository.
 
 # Acknowledgements / References
 
